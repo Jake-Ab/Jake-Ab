@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jake Abednego.
-- 👀 I’m interested in Cybersecurity and Software Engineering.
-- 🌱 I’m currently learning Digital Forensics and Mobile App Development( React Native).
+- 👀 I’m interested in Software Engineering.
+- 🌱 I am web and mobile apps engineer.
 - ⚡ Fun fact: No one cares, just do your thing.
 
 <!---
