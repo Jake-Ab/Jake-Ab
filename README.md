@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Jake Abednego.
-- 👀 I’m interested in Software Engineering.
+- 👋 
+- 👀 I’m a Software Engineering.
 - 🌱 I am a web and mobile apps engineer.
 - ⚡ Fun fact: No one cares, just do your thing.
 
