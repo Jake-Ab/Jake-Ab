@@ -127,6 +127,11 @@ A clean UI dashboard built around renewable energy, power usage analytics, chart
 
 ---
 
+# Thanks for visiting !
+<p align="center"> <img src="https://media.giphy.com/media/ehhuGD0nByYxC/giphy.gif" width="400" alt="Animated cartoon character waves enthusiastically with a big smile in a cheerful, friendly greeting gesture against a simple background"/> </p>
+
+# If you like any of my work, feel free to star the repositories; it means a lot!
+
 # 📫 Contact Me
 
 <p align="center">
