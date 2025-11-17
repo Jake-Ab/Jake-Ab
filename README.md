@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="assets/profile.jpg" width="150" style="border-radius: 50%;"/>
+  <img src="assets/profile.png" width="150" style="border-radius: 50%;"/>
 </p>
 
 <h1 align="center">Hi, I'm <strong>Jake Abednego Lamptey</strong> 👋</h1>
@@ -73,7 +73,9 @@ Sclogg helps users verify the originality of written text using AI-powered detec
 
 A modern, elegant platform for hosting classes online with real-time chat, whiteboard, and assignment sharing.
 
-> *(Add screenshot when ready)*
+<p align="center">
+  <img src="assets/openclass-hero.png" width="100%" />
+</p>
 
 ---
 
@@ -81,7 +83,7 @@ A modern, elegant platform for hosting classes online with real-time chat, white
 
 A visually rich UI clone built with **React & Tailwind**, mimicking Discord’s layout + interactivity.
 
-> *(Add screenshot when ready)*
+> *(screenshot not ready)*
 
 ---
 
@@ -89,7 +91,7 @@ A visually rich UI clone built with **React & Tailwind**, mimicking Discord’s 
 
 A clean UI dashboard built around renewable energy, power usage analytics, charts, and forecasting.
 
-> *(Add screenshot when ready)*
+> *(screenshot not ready)*
 
 ---
 
