@@ -3,10 +3,10 @@
   <img src="assets/profile.png" width="150" style="border-radius: 50%;"/>
 </p>
 
-<h1 align="center">Hi, I'm <strong>Jake Abednego Lamptey</strong> 👋</h1>
+<h1 align="center">This is <strong>Jake Abednego Lamptey</strong> 👋</h1>
 
 <p align="center">
-  <strong>Software Engineer • Web & Mobile • AI • UI Engineer • Problem Solver</strong>
+  <strong>Software Engineer • Web & Mobile • AI • Problem Solver</strong>
 </p>
 
 <p align="center">
@@ -19,13 +19,16 @@
 ## 🚀 About Me
 
 - 🌍 Ghana-based Software Engineer  
-- 🧠 I build **AI-powered tools**, **full-stack apps**, and **beautiful UIs**  
-- 🔥 Currently working on:
+- 🧠 I build **building AI-powered tools quietly**, **full-stack apps**, and **beautiful UIs**  
+- 🔥 Recently worked on:
   - BioQuery – a NASA-style scientific search engine  
   - Sclogg – AI text originality detection  
   - OpenClass – an online classroom collaboration platform  
   - Energy dashboard & green-tech UI  
-- 🎮 Bonus: Learning 3D game development  
+- 🎮 Bonus:  
+-  Improving my skills in web animations using GSAP
+-  Taking AI Engineering certifications
+-  Learning 3D game development 
 - 👨‍💻 Tech Stack:  
   **Next.js • React • TypeScript • Node.js • Firebase • Sanity • Tailwind • Expo • GSAP • Microservices**
 
@@ -127,8 +130,8 @@ A clean UI dashboard built around renewable energy, power usage analytics, chart
 # 📫 Contact Me
 
 <p align="center">
-  <a href="mailto:kwaku.lamptey@gmail.com"><strong>Email</strong></a> • 
-  <a href="#"><strong>LinkedIn</strong></a> • 
+  <a href="mailto:qweikujake@gmail.com"><strong>Email</strong></a> • 
+  <a href="https://www.linkedin.com/in/jalamp"><strong>LinkedIn</strong></a> • 
   <a href="https://github.com/Jake-Ab"><strong>GitHub</strong></a>
 </p>
 
