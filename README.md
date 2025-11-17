@@ -3,7 +3,7 @@
   <img src="assets/profile.png" width="150" style="border-radius: 50%;"/>
 </p>
 
-<h1 align="center">This is <strong>Jake Abednego Lamptey</strong> 👋</h1>
+<h1 align="center">This is <strong>Jake Abednego Lamptey</strong> </h1>
 
 <p align="center">
   <strong>Software Engineer • Web & Mobile • AI • Problem Solver</strong>
@@ -16,25 +16,25 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🌍 Ghana-based Software Engineer  
-- 🧠 I build **building AI-powered tools quietly**, **full-stack apps**, and **beautiful UIs**  
-- 🔥 Recently worked on:
+-  Ghana-based Software Engineer  
+-  I build **building AI-powered tools quietly**, **full-stack apps**, and **beautiful UIs**  
+-  Recently worked on:
   - BioQuery – a NASA-style scientific search engine  
   - Sclogg – AI text originality detection  
   - OpenClass – an online classroom collaboration platform  
   - Energy dashboard & green-tech UI  
-- 🎮 Bonus:  
+-  Bonus:  
 -  Improving my skills in web animations using GSAP
 -  Taking AI Engineering certifications
 -  Learning 3D game development 
-- 👨‍💻 Tech Stack:  
+-  Tech Stack:  
   **Next.js • React • TypeScript • Node.js • Firebase • Sanity • Tailwind • Expo • GSAP • Microservices**
 
 ---
 
-## 🌌 Featured Project – BioQuery  
+##  Featured Project – BioQuery  
 
 <p align="center">
   <img src="assets/bioquery-hero.png" width="100%" />
@@ -43,18 +43,18 @@
 **BioQuery** transforms decades of NASA biological research into actionable insights.  
 Built with **Next.js, TailwindCSS, AI Models, and vector databases**.
 
-**✨ Highlights:**
+**Highlights:**
 - Interactive galaxy-themed UI  
 - Scientific chat AI  
 - Collections, experiments, and dataset browsing  
 - Real-time insights and summarization
 
 🔗 **Live Demo:** https://bioquery.vercel.app  
-🔗 **Repo:** *(coming soon if private)*
+🔗 **Repo:** *( private)*
 
 ---
 
-## 🤖 Sclogg – AI Content Detector
+##  Sclogg – AI Content Detector
 
 <p align="center">
   <img src="assets/sclogg.png" width="100%" />
@@ -62,7 +62,7 @@ Built with **Next.js, TailwindCSS, AI Models, and vector databases**.
 
 Sclogg helps users verify the originality of written text using AI-powered detector models.
 
-**✨ Features**
+**Features**
 - Paste text to verify  
 - Lightweight UI  
 - Fast inference  
@@ -72,7 +72,7 @@ Sclogg helps users verify the originality of written text using AI-powered detec
 
 ---
 
-## 🏫 OpenClass – Online Classroom
+##  OpenClass – Online Classroom
 
 A modern, elegant platform for hosting classes online with real-time chat, whiteboard, and assignment sharing.
 
@@ -82,7 +82,7 @@ A modern, elegant platform for hosting classes online with real-time chat, white
 
 ---
 
-## 🎧 Discord Clone
+##  Discord Clone
 
 A visually rich UI clone built with **React & Tailwind**, mimicking Discord’s layout + interactivity.
 
@@ -90,7 +90,7 @@ A visually rich UI clone built with **React & Tailwind**, mimicking Discord’s 
 
 ---
 
-## 🌱 Green Energy Dashboard
+##  Green Energy Dashboard
 
 A clean UI dashboard built around renewable energy, power usage analytics, charts, and forecasting.
 
@@ -98,7 +98,7 @@ A clean UI dashboard built around renewable energy, power usage analytics, chart
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,git,github,tailwind,firebase,prisma,postgres,figma" />
@@ -106,7 +106,7 @@ A clean UI dashboard built around renewable energy, power usage analytics, chart
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jake-Ab&show_icons=true&theme=react" height="160" />
@@ -119,7 +119,7 @@ A clean UI dashboard built around renewable energy, power usage analytics, chart
 
 ---
 
-# 🛰️ Activity Graph
+#  Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jake-Ab&theme=react-dark" />
@@ -132,7 +132,7 @@ A clean UI dashboard built around renewable energy, power usage analytics, chart
 
 # If you like any of my work, feel free to star the repositories; it means a lot!
 
-# 📫 Contact Me
+#  Contact Me
 
 <p align="center">
   <a href="mailto:qweikujake@gmail.com"><strong>Email</strong></a> • 
